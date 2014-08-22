@@ -1,0 +1,1 @@
+create table usuario(id_usuario Integer auto_increment, Nombre_usuario varchar(50), constraseña varchar(50) primary key id_usuario;
